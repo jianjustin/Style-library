@@ -1,0 +1,10 @@
+/*默认样式清除，使不同浏览器的显示实现基本一致*/
+
+html{
+	font-family: sans-serif;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
